@@ -1,8 +1,7 @@
 # SecondHandTransactions
-软件工程概论项目——校园二手交易系统
+_软件工程概论项目——校园二手交易系统_
 
-
-~~借鉴~~ 照搬了GitHub上[weifuchenggg的代码](https://github.com/weifuchenggg/secondHandTransactions)
+本项目~~借鉴~~ 照搬了GitHub上[weifuchenggg的代码](https://github.com/weifuchenggg/secondHandTransactions)
 
 ## 项目简介  
   我们将创建一个校园二手物品交易平台，将在校学生出售的二手物品整合分类以供需要的同学购买。
